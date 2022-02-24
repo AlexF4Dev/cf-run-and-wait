@@ -3,6 +3,7 @@
 name: Release cf-run-and-wait binaries
 
 on:
+  workflow_dispatch:
   release:
     types: [created]
 
