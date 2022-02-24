@@ -28,4 +28,4 @@ jobs:
           binary_name: "run-and-wait"
           build_command: go build -o run-and-wait
           # ldflags: "-s -w"
-          extra_files: LICENSE Readme.md
+          extra_files: LICENSE README.md
